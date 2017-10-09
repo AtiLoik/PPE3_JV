@@ -108,4 +108,5 @@ catch(PDOException $e)
 
 
 //PENIS&ANUS
+//J'aime la bière
 ?>
