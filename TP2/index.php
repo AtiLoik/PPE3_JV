@@ -106,5 +106,5 @@ catch(PDOException $e)
 	echo $e->getMessage();
 }
 
-//TEST
+//TEST 2
 ?>
