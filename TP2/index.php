@@ -106,5 +106,9 @@ catch(PDOException $e)
 	echo $e->getMessage();
 }
 
+<<<<<<< HEAD
 //TEST 2
+=======
+//Plop test guigui
+>>>>>>> e9141892974166fc7f57799c13c61d61199403af
 ?>
