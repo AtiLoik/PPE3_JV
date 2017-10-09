@@ -106,7 +106,4 @@ catch(PDOException $e)
 	echo $e->getMessage();
 }
 
-
-//PENIS&ANUS
-//J'aime la bière
 ?>
